@@ -1,13 +1,13 @@
 {
-  "name": "codelytv/php-bootstrap",
+  "name": "jeffpascal/php-bootstrap",
   "description": "Starting point if you want to bootstrap a project in PHP following best practices.",
   "type": "project",
   "keywords": ["bootstrap", "skeleton", "kata", "TDD", "boilerplate"],
-  "homepage": "https://codely.tv",
+  "homepage": "https://jeffpascal.tv",
   "license": "MIT",
   "authors": [
     {
-      "name": "CodelyTV",
+      "name": "jeffpascal",
       "homepage": "https://codely.tv"
     }
   ],
